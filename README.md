@@ -1,2 +1,5 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+# Porject Name: Assignment Portfolio
+Project created by Karen Villasenor
+
+# Compiling and Executing
+To run the project, download or clone the repository, make sure all of the files are in the same folder, and then open the “index.html” file in a web browser
