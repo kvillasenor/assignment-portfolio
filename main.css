@@ -37,3 +37,7 @@ body {
 .link {
     color: rgb(8, 141, 41);
 }
+
+.space {
+    margin-top: 15px;
+}
