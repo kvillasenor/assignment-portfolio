@@ -1,4 +1,4 @@
-# Porject Name: Assignment Portfolio
+# Project Name: Assignment Portfolio
 Project created by Karen Villasenor
 The use of Google AI Overview was used to create the 3 separate columns of that the text is aligned with for this project.
 
